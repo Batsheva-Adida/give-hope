@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bcgU16CH2NWZAhLeYDKcq4/KgcxocJbwJ2VkqYuaBmMv+XdTflPBJfRqriqZtLX8hr2L2HfTtau+d9sRuByjEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WIN 10\\Desktop\\פרויקט נותנים תקווה\\Progect_WebApi\\Commont\\Commont.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WIN 10\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\WIN 10\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\WIN 10\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+C:\Users\WIN 10\Desktop\progectC#\Progect_WebApi\Commont\bin\Debug\net6.0\Commont.deps.json
+C:\Users\WIN 10\Desktop\progectC#\Progect_WebApi\Commont\bin\Debug\net6.0\Commont.dll
+C:\Users\WIN 10\Desktop\progectC#\Progect_WebApi\Commont\bin\Debug\net6.0\Commont.pdb
+C:\Users\WIN 10\Desktop\progectC#\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Desktop\progectC#\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\progectC#\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\progectC#\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\progectC#\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\progectC#\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.dll
+C:\Users\WIN 10\Desktop\progectC#\Progect_WebApi\Commont\obj\Debug\net6.0\refint\Commont.dll
+C:\Users\WIN 10\Desktop\progectC#\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.pdb
+C:\Users\WIN 10\Desktop\progectC#\Progect_WebApi\Commont\obj\Debug\net6.0\ref\Commont.dll
+C:\Users\WIN 10\Desktop\פרויקט נותנים תקווה\Progect_WebApi\Commont\bin\Debug\net6.0\Commont.deps.json
+C:\Users\WIN 10\Desktop\פרויקט נותנים תקווה\Progect_WebApi\Commont\bin\Debug\net6.0\Commont.dll
+C:\Users\WIN 10\Desktop\פרויקט נותנים תקווה\Progect_WebApi\Commont\bin\Debug\net6.0\Commont.pdb
+C:\Users\WIN 10\Desktop\פרויקט נותנים תקווה\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Desktop\פרויקט נותנים תקווה\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\פרויקט נותנים תקווה\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\פרויקט נותנים תקווה\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\פרויקט נותנים תקווה\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\פרויקט נותנים תקווה\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.dll
+C:\Users\WIN 10\Desktop\פרויקט נותנים תקווה\Progect_WebApi\Commont\obj\Debug\net6.0\refint\Commont.dll
+C:\Users\WIN 10\Desktop\פרויקט נותנים תקווה\Progect_WebApi\Commont\obj\Debug\net6.0\Commont.pdb
+C:\Users\WIN 10\Desktop\פרויקט נותנים תקווה\Progect_WebApi\Commont\obj\Debug\net6.0\ref\Commont.dll
